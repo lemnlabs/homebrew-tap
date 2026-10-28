@@ -1,6 +1,6 @@
 cask "simfiles" do
-  version "1.0.0"
-  sha256 "ab2dc3783bf6f2f9b1ea0f0b781614c70cb8b67d5b567f9a5836053384c16242"
+  version "1.1.0"
+  sha256 "36fbe0c9427ea97d8922226079e350f0094efb88ad6a3d5cff74b5d1da3da97d"
 
   url "https://github.com/lemnlabs/Simfiles/releases/download/v#{version}/Simfiles-v#{version}.dmg"
 
